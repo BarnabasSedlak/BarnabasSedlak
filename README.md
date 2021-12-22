@@ -1,0 +1,3 @@
+- čau já jsem Barnabáš Sedlák
+- jsem majitel minecraftového serveru MagicLand Network
+- pracuju jako vývojář, technik na různých projektech
